@@ -33,10 +33,10 @@
                     row="1"
             ></fab>
             <Button
-                    @tap="logout"
-                    class="mt-5 w-20 bg-red-400"
                     text="Logout"
                     verticalAlignment="bottom"
+                    @tap="logout"
+                    class="mt-5 w-20 bg-red-400"
             />
         </GridLayout>
     </Page>

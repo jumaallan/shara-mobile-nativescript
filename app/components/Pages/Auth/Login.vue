@@ -2,9 +2,9 @@
     <Page actionBarHidden="true">
         <StackLayout class="px-6 w-full" orientation="vertical" verticalAlignment="center">
             <Image
-                    horizontalAlignment="center"
                     src="~/assets/images/shara_logo.png"
                     width="200"
+                    horizontalAlignment="center"
             />
             <StackLayout class="w-full" orientation="vertical">
                 <FlexboxLayout alignItems="center" class="w-full mt-32">
